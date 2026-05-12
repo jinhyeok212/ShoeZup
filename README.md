@@ -16,6 +16,12 @@ AI-based sneaker resale price prediction and market analysis platform
 /data
 /docs
 
+## Current Documents
+
+- `docs/REQUIREMENTS.md`: MVP 요구사항 정의
+- `docs/API_SPECS.md`: API 명세 초안
+- `docs/ROLE_ASSIGNMENT.md`: 팀 역할 분담 문서
+
 ## Git Rules
 
 - main 브랜치 직접 push 금지
