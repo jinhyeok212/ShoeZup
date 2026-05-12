@@ -13,6 +13,7 @@ AI-based sneaker resale price prediction and market analysis platform
 /frontend
 /backend
 /ai
+/data
 /docs
 
 ## Git Rules
